@@ -1,3 +1,5 @@
+//taken directly from https://www.makeuseof.com/tag/arduino-traffic-light-controller/
+
 int red = 10;
 int yellow = 9;
 int green = 8;
